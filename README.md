@@ -11,7 +11,7 @@
 
 <h2>💻 IT Projects:</h2>
 
-- <b>👷🏽 Under Construction 👷🏽</b>
+- <b>👷🏽 Under Construction </b>
 
 <h2>📜 Certifications:</h2>
 
